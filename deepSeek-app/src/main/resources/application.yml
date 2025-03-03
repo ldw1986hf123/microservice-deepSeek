@@ -1,0 +1,9 @@
+server:
+  port: 8002
+spring:
+  ai:
+    openai:
+      api-key: sk-358de00627c34f0baf34b327361e41ed
+      base-url: https://api.deepseek.com
+      chat:
+        model: DeepSeek-V3
